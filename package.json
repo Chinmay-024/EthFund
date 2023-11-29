@@ -1,11 +1,11 @@
 {
-  "name": "EthFunds",
+  "name": "EthFund",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "dev": "next dev"
+    "dev": "node server.js"
   },
   "author": "",
   "license": "ISC",

@@ -5,7 +5,7 @@ import Header from "./Header";
 
 const Layout = (props) => {
   return (
-    <div>
+    <div style={{ fontSize: "1.1rem" }}>
       <Container>
         <Head>
           <link
